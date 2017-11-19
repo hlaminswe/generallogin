@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">General Login</string>
+    <string name="facebook_app_id">132173810779053</string>
+    <string name="fb_login_protocol_scheme">fb132173810779053</string>
+    <string name="welcome">WELCOME</string>
+    <string name="error">Error on login</string>
+    <string name="cancel">User cancel to login</string>
+    <string name="success">Successfully login with Facebook.</string>
+
+</resources>
